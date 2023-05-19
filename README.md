@@ -3,7 +3,7 @@
 
 In addition to coding, I also co-founded a record label called [Like You Mean It Records](www.likeyoumeanitrecords.com), which is entering its third year. Being in school while also running a small business has taught me critical skills in project management across multiple disciplines, which I believe will be invaluable for any job I have moving forward.
 
-When I'm not working, I like to spend time with my cat and girlfriend, writing and recording music of my own, play video games, or tend to my plants.  
+When I'm not working, I like to spend time with my cat and girlfriend, write and record music of my own, play video games, or tend to my plants.  
   
 
 - 🔭 I’m currently working on [a new site for the record label](https://github.com/macleann/lymi-capstone)  
