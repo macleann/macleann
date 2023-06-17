@@ -6,10 +6,10 @@ In addition to coding, I also co-founded a record label called [Like You Mean It
 When I'm not working, I like to spend time with my cat and girlfriend, write and record music of my own, play video games, or tend to my plants.  
   
 
-- 🔭 I’m currently working on [a new site for the record label](https://github.com/macleann/lymi-capstone)  
+- 🔭 I’m currently working on a full stack TV playlisting website. [Front end link](https://github.com/macleann/enchiridion-client) and [back end link](https://github.com/macleann/enchiridion-server).
   
 
-- 🌱 I’m currently learning how to utilize OpenAI's API as well as other free external API's  
+- 🌱 I’m currently learning how to utilize OpenAI's API as well as other free external API's like The Movie Database (TMDB)
   
 
 - ⚡ Fun fact: I once was on a sailboat that capsized. Needless to say, that was the last time I went on a sailboat.  
