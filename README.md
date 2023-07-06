@@ -1,4 +1,4 @@
-### <div align="center">Hellooo, My name is Neil MacLean and I'm a full stack web developer currently finishing my apprenticeship at Nashville Software School where I'm learning the following languages and tools: HTML, CSS, Javascript, React, Python, Django, and SQL.</div>  
+### <div align="center">Hellooo, My name is Neil MacLean and I'm a full stack web developer who recently finished an apprenticeship at Nashville Software School where I learned the following languages and tools: HTML, CSS, Javascript, React, Python, Django, and SQL.</div>  
   
 
 In addition to coding, I also co-founded a record label called [Like You Mean It Records](www.likeyoumeanitrecords.com), which is entering its third year. Being in school while also running a small business has taught me critical skills in project management across multiple disciplines, which I believe will be invaluable for any job I have moving forward.
