@@ -1,14 +1,14 @@
 ### <div align="center">Hellooo, My name is Neil MacLean and I'm a full stack web developer who recently finished an apprenticeship at Nashville Software School where I learned the following languages and tools: HTML, CSS, Javascript, React, Python, Django, and SQL.</div>  
   
 
-In addition to coding, I also co-founded a record label called [Like You Mean It Records](www.likeyoumeanitrecords.com), which is entering its third year. Being in school while also running a small business has taught me critical skills in project management across multiple disciplines, which I believe will be invaluable for any job I have moving forward. Additionally, I am a self-taught graphic designer proficient in Adobe Photoshop and Illustrator, which has further enriched my understanding of user-centric design in web development. My continuous pursuit of development since completing NSS' apprenticeship has led me to become proficient in Typescript, SASS, and MUI. Next, I'm setting my sights on other front-end frameworks like Next.js and Angular.
+In addition to coding, I also co-founded a record label called [Like You Mean It Records](www.likeyoumeanitrecords.com), which is entering its third year. Being in school while also running a small business has taught me critical skills in project management across multiple disciplines, which I believe will be invaluable for any job I have moving forward. Additionally, I am a self-taught graphic designer proficient in Adobe Photoshop and Illustrator, which has further enriched my understanding of user-centric design in web development. My continuous pursuit of development since completing NSS' apprenticeship has led me to become proficient in Typescript, SASS, and MUI and become certified by Microsoft in Azure's fundamentals (AZ-900).
 
 When I'm not working, I like to spend time with my cat and girlfriend, write and record music of my own, play video games, or tend to my plants.
 
 - 🔭 I’m currently working on a full stack TV playlisting website. [Front end link](https://github.com/macleann/enchiridion-client) and [back end link](https://github.com/macleann/enchiridion-server). I recently implemented global state management via Redux for the front-end and social OAuth authorization and authentication via Google for both front and back-end.
   
 
-- 🌱 Currently pursuing Microsoft Azure Fundamentals (AZ-900) Certification, with an expected completion in late Ocotober 2023.
+- 🌱 Currently learning the Cypress testing framework.
   
 
 - ⚡ Fun fact: I once was on a sailboat that capsized. Needless to say, that was the last time I went on a sailboat.  
